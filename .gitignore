@@ -1,0 +1,22 @@
+# Archivos sensibles y variables de entorno
+.env
+.env.*
+*.key
+*.pem
+*.cert
+secrets.*
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.log
+
+# Documentación interna, imágenes originales sin comprimir, PDF de plantilla y prototipo previo (solo en local)
+INSTRUCCIONES_LOCALES.md
+*.jpeg
+*.pdf
+Gab’s Jerseys · Catálogo.html
+assets/og-image.webp

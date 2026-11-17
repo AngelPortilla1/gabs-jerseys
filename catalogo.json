@@ -1,0 +1,2933 @@
+{
+  "negocio": {
+    "nombre": "Gab’s Jerseys",
+    "submarca": "Gab’s Sports",
+    "eslogan": "Temporadas actuales y retro · Calidad 1.1",
+    "ciudad": "Pamplona, Norte de Santander",
+    "envios": "Envíos a toda Colombia",
+    "entrega": "Entrega inmediata",
+    "telefonoWhatsapp": "573133200169",
+    "telefonoVisible": "313 320 0169",
+    "telefonoWhatsappSecundario": "573227424509",
+    "telefonoVisibleSecundario": "322 742 4509",
+    "instagramUsuario": "@gabsjerseys",
+    "instagramUrl": "https://www.instagram.com/gabsjerseys/",
+    "logoGato": "assets/logo-gato.webp",
+    "logoGatoHero": "assets/gato-balon-hero.webp",
+    "logoGabsBalon": "assets/logo-gabs-balon.webp",
+    "logoGatoEntrega": "assets/gato-entrega.webp",
+    "mensajeGeneralWhatsapp": "Hola Gab’s Jerseys 🐱⚽, quiero consultar por una camiseta del catálogo."
+  },
+  "camisetas": [
+    {
+      "id": "barcelona-2006-01",
+      "equipo": "BARCELONA",
+      "subtitulo": "Local Clásica",
+      "temporada": "2006",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0c3c78",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-2006-01.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Etiqueta Nike",
+        "Sin sponsor"
+      ],
+      "descripcion": "Camiseta local del FC Barcelona temporada 2006 con franjas anchas azulgrana y cuello en V con detalle amarillo."
+    },
+    {
+      "id": "barcelona-2015-16-02",
+      "equipo": "BARCELONA",
+      "subtitulo": "Local Franjas Horizontales",
+      "temporada": "2015-16",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#7d1238",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-2015-16-02.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Qatar Airways",
+        "Etiqueta Nike"
+      ],
+      "descripcion": "Camiseta local del FC Barcelona 2015-16 con las históricas franjas horizontales azulgrana y detalles amarillos laterales."
+    },
+    {
+      "id": "barcelona-2001-02-03",
+      "equipo": "BARCELONA",
+      "subtitulo": "Local Cuello Polo",
+      "temporada": "2001-02",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0c3c78",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-2001-02-03.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Retro Nike",
+        "Cuello polo"
+      ],
+      "descripcion": "Camiseta retro del FC Barcelona temporada 2001-02 con escudo centralizado bajo el cuello tipo polo azul oscuro."
+    },
+    {
+      "id": "barcelona-2011-12-04",
+      "equipo": "BARCELONA",
+      "subtitulo": "Local Qatar Foundation",
+      "temporada": "2011-12",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#7d1238",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-2011-12-04.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Qatar Foundation",
+        "Etiqueta Nike"
+      ],
+      "descripcion": "Camiseta local del FC Barcelona 2011-12 con franjas finas azulgrana y patrocinio Qatar Foundation."
+    },
+    {
+      "id": "barcelona-2018-19-05",
+      "equipo": "BARCELONA",
+      "subtitulo": "Local Rakuten",
+      "temporada": "2018-19",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0c3c78",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-2018-19-05.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Rakuten",
+        "Etiqueta Nike"
+      ],
+      "descripcion": "Camiseta local del FC Barcelona temporada 2018-19 con bastones finos azulgrana y patrocinio Rakuten."
+    },
+    {
+      "id": "barcelona-1989-06",
+      "equipo": "BARCELONA",
+      "subtitulo": "Retro Meyba Clásica",
+      "temporada": "1989",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#7d1238",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-1989-06.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Retro Meyba",
+        "Cuello V"
+      ],
+      "descripcion": "Camiseta retro clásica del FC Barcelona 1989 marca Meyba con franjas azulgrana brillantes y detalles en hombros."
+    },
+    {
+      "id": "barcelona-2016-17-07",
+      "equipo": "BARCELONA",
+      "subtitulo": "Local Qatar Airways",
+      "temporada": "2016-17",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0c3c78",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-2016-17-07.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Qatar Airways",
+        "Etiqueta Nike"
+      ],
+      "descripcion": "Camiseta local del FC Barcelona 2016-17 con franjas clásicas azulgrana y tramado degradado."
+    },
+    {
+      "id": "barcelona-2005-06-08",
+      "equipo": "BARCELONA",
+      "subtitulo": "Local Campeón Europa",
+      "temporada": "2005-06",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#7d1238",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-2005-06-08.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Etiqueta Nike",
+        "Época Ronaldinho"
+      ],
+      "descripcion": "Camiseta icónica del FC Barcelona temporada 2005-06 (París) sin publicidad frontal y detalle amarillo en el cuello."
+    },
+    {
+      "id": "barcelona-2014-15-09",
+      "equipo": "BARCELONA",
+      "subtitulo": "Local del Triplete",
+      "temporada": "2014-15",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0c3c78",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-2014-15-09.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Qatar Airways",
+        "Senyera en cuello"
+      ],
+      "descripcion": "Camiseta histórica del Triplete (2014-15) de la MSN con detalle de la Senyera en el pecho."
+    },
+    {
+      "id": "barcelona-1996-97-10",
+      "equipo": "BARCELONA",
+      "subtitulo": "Retro Kappa Manga Larga",
+      "temporada": "1996-97",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#7d1238",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-1996-97-10.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Manga larga",
+        "Retro Kappa"
+      ],
+      "descripcion": "Camiseta retro manga larga del FC Barcelona 1996-97 marca Kappa (época Ronaldo Nazário) con cuello polo."
+    },
+    {
+      "id": "barcelona-2010-11-11",
+      "equipo": "BARCELONA",
+      "subtitulo": "Local Campeón Wembley",
+      "temporada": "2010-11",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0c3c78",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-2010-11-11.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "UNICEF",
+        "Cuello amarillo"
+      ],
+      "descripcion": "Camiseta local del FC Barcelona 2010-11 (campeón en Wembley) con cuello y puños amarillos y logo UNICEF."
+    },
+    {
+      "id": "barcelona-2012-13-12",
+      "equipo": "BARCELONA",
+      "subtitulo": "Local Difuminada",
+      "temporada": "2012-13",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#7d1238",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-2012-13-12.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Qatar Foundation",
+        "Liga 100 puntos"
+      ],
+      "descripcion": "Camiseta local del FC Barcelona 2012-13 con degradado central grana sobre fondo azul marino."
+    },
+    {
+      "id": "barcelona-2008-09",
+      "equipo": "BARCELONA",
+      "subtitulo": "Final Roma 2009",
+      "temporada": "2008-09",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#1b3a8f",
+        "#7d1238"
+      ],
+      "coloresCuerpo": [
+        "#f7f4f9",
+        "#7d1238"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#f6c90e",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-2008-09.webp",
+      "imagenFlyer": "fotos/barcelona-2008-09-flyer.webp",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [
+        {
+          "titulo": "Etiqueta interna",
+          "src": "fotos/barcelona-2008-09-etiqueta-interna.webp",
+          "alt": "Etiqueta interna con El Cant del Barça y talla en camiseta Barcelona 2008-09"
+        },
+        {
+          "titulo": "Escudo bordado",
+          "src": "fotos/barcelona-2008-09-escudo-bordado.webp",
+          "alt": "Primer plano del escudo bordado del FC Barcelona 2008-09"
+        },
+        {
+          "titulo": "Etiqueta Nike",
+          "src": "fotos/barcelona-2008-09-etiqueta-nike.webp",
+          "alt": "Etiqueta inferior Nike Team Engineered en camiseta Barcelona 2008-09"
+        }
+      ],
+      "etiquetasDetalle": [
+        "Etiqueta interna",
+        "Escudo bordado",
+        "Etiqueta Nike",
+        "Final Roma 2009"
+      ],
+      "descripcion": "Edición histórica de la Final de Roma 2009 (sextete) mitad azul y mitad grana con bordado frontal de la final, estampado UNICEF y etiqueta interna El Cant del Barça."
+    },
+    {
+      "id": "barcelona-2010-11-14",
+      "equipo": "BARCELONA",
+      "subtitulo": "Local Parche Campeón Mundial",
+      "temporada": "2010-11",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#7d1238",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-2010-11-14.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Parche FIFA",
+        "UNICEF"
+      ],
+      "descripcion": "Camiseta del FC Barcelona 2010-11 con parche dorado de Campeón del Mundo de Clubes FIFA y estampado UNICEF."
+    },
+    {
+      "id": "barcelona-2003-04-15",
+      "equipo": "BARCELONA",
+      "subtitulo": "Local Cuello Polo LFP",
+      "temporada": "2003-04",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0c3c78",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-2003-04-15.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Parche LFP",
+        "Retro Nike"
+      ],
+      "descripcion": "Camiseta retro del FC Barcelona temporada 2003-04 (debut de Ronaldinho) con cuello polo y parche LFP."
+    },
+    {
+      "id": "barcelona-2010-11-16",
+      "equipo": "BARCELONA",
+      "subtitulo": "Visitante Verde Menta",
+      "temporada": "2010-11",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#0c4da2",
+        "#9b0047"
+      ],
+      "coloresCuerpo": [
+        "#0e4a99",
+        "#980347"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#7d1238",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#1b3a8f",
+        "#8c1d4a"
+      ],
+      "colorCuelloSvg": "#f6c90e",
+      "escudo": "fotos/escudo-barcelona.webp",
+      "imagenPrincipal": "fotos/barcelona-2010-11-16.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-barcelona.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Visitante",
+        "UNICEF"
+      ],
+      "descripcion": "Camiseta visitante verde menta del FC Barcelona 2010-11 con franja azulgrana en el pecho y estampado UNICEF."
+    },
+    {
+      "id": "real-madrid-1997",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Visitante Morada Kelme",
+      "temporada": "1997",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#dcdcf0",
+        "#3a2d85"
+      ],
+      "coloresCuerpo": [
+        "#f7f6fc",
+        "#463996"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#372c8a",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#463996"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-1997.webp",
+      "imagenFlyer": "fotos/real-madrid-1997-flyer.webp",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [
+        {
+          "titulo": "Etiqueta interna",
+          "src": "fotos/real-madrid-1997-etiqueta-interna.webp",
+          "alt": "Etiqueta interna oficial del cuello en camiseta Real Madrid 1997"
+        },
+        {
+          "titulo": "Escudo bordado",
+          "src": "fotos/real-madrid-1997-escudo-bordado.webp",
+          "alt": "Primer plano del escudo central bordado del Real Madrid 1997"
+        },
+        {
+          "titulo": "Detalle hombros",
+          "src": "fotos/real-madrid-1997-detalle-hombros.webp",
+          "alt": "Detalle de las huellas Kelme en los hombros de la camiseta Real Madrid 1997"
+        }
+      ],
+      "etiquetasDetalle": [
+        "Etiqueta interna",
+        "Escudo bordado",
+        "Detalle hombros",
+        "Clásica Kelme Teka"
+      ],
+      "descripcion": "Camiseta retro visitante morada de 1997 marca Kelme con patrocinio Teka, escudo central bordado, cuello en V blanco/negro y las icónicas huellas de Kelme en las mangas."
+    },
+    {
+      "id": "real-madrid-2013-14-01",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Local La Décima",
+      "temporada": "2013-14",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#dcdce2",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-2013-14-01.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Fly Emirates",
+        "Detalles naranjas"
+      ],
+      "descripcion": "Camiseta local del Real Madrid 2013-14 (campeón de La Décima en Lisboa) con líneas grises y naranjas."
+    },
+    {
+      "id": "real-madrid-2005-06-02",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Local Era Galácticos",
+      "temporada": "2005-06",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#ffffff",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-2005-06-02.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Siemens",
+        "Etiqueta Adidas"
+      ],
+      "descripcion": "Camiseta local del Real Madrid 2005-06 blanca con las tres franjas negras en hombros y patrocinio Siemens."
+    },
+    {
+      "id": "real-madrid-2004-05-03",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Local Siemens Mobile",
+      "temporada": "2004-05",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#dcdce2",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-2004-05-03.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Siemens Mobile",
+        "Etiqueta Adidas"
+      ],
+      "descripcion": "Camiseta clásica del Real Madrid 2004-05 blanca con cuello en V y patrocinio Siemens Mobile."
+    },
+    {
+      "id": "real-madrid-2009-10-04",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Local Bwin Debut CR7",
+      "temporada": "2009-10",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#ffffff",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-2009-10-04.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Bwin",
+        "Escudo Santiago Bernabéu"
+      ],
+      "descripcion": "Camiseta local del Real Madrid 2009-10 (año debut de Cristiano Ronaldo) con líneas amarillas y emblema del Bernabéu."
+    },
+    {
+      "id": "real-madrid-1996-97-05",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Local Blanca Kelme Teka",
+      "temporada": "1996-97",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#dcdce2",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-1996-97-05.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Clásica Kelme",
+        "Teka"
+      ],
+      "descripcion": "Camiseta retro local blanca del Real Madrid 1996-97 marca Kelme con patrocinio Teka y huellas moradas en mangas."
+    },
+    {
+      "id": "real-madrid-2017-18-06",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Local Campeón Kiev",
+      "temporada": "2017-18",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#ffffff",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-2017-18-06.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Fly Emirates",
+        "Detalles celestes"
+      ],
+      "descripcion": "Camiseta local del Real Madrid 2017-18 (Decimotercera Champions) blanca con franjas celestes."
+    },
+    {
+      "id": "real-madrid-2016-17-07",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Local Cuello Polo Cardiff",
+      "temporada": "2016-17",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#dcdce2",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-2016-17-07.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Cuello polo",
+        "Fly Emirates"
+      ],
+      "descripcion": "Camiseta local del Real Madrid 2016-17 (Duodécima en Cardiff) con cuello polo clásico y líneas moradas."
+    },
+    {
+      "id": "real-madrid-2008-09-08",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Local Bwin Clásica",
+      "temporada": "2008-09",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#ffffff",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-2008-09-08.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Bwin",
+        "Etiqueta Adidas"
+      ],
+      "descripcion": "Camiseta local del Real Madrid temporada 2008-09 blanca con cuello alto y franjas negras."
+    },
+    {
+      "id": "real-madrid-2014-15-09",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Local Cuello Botones",
+      "temporada": "2014-15",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#dcdce2",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-2014-15-09.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Fly Emirates",
+        "Etiqueta Adidas"
+      ],
+      "descripcion": "Camiseta local del Real Madrid 2014-15 blanca con cuello mao abotonado."
+    },
+    {
+      "id": "real-madrid-2007-08-10",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Local Detalles Morados",
+      "temporada": "2007-08",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#ffffff",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-2007-08-10.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Bwin",
+        "Detalles morados"
+      ],
+      "descripcion": "Camiseta local del Real Madrid 2007-08 blanca con cuello y franjas moradas clásicas."
+    },
+    {
+      "id": "real-madrid-1998-11",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Local Campeón Séptima",
+      "temporada": "1998",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#dcdce2",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-1998-11.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Retro Teka",
+        "Etiqueta Adidas"
+      ],
+      "descripcion": "Camiseta retro del Real Madrid 1998 con patrocinio Teka y detalles azul marino y dorado."
+    },
+    {
+      "id": "real-madrid-2006-07-12",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Local Liga de las Remontadas",
+      "temporada": "2006-07",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#ffffff",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-2006-07-12.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "BenQ Siemens",
+        "Logo FIFA Siglo XX"
+      ],
+      "descripcion": "Camiseta del Real Madrid 2006-07 con insignia de Mejor Club del Siglo XX FIFA y BenQ Siemens."
+    },
+    {
+      "id": "real-madrid-2011-12-13",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Local Liga de los Récords",
+      "temporada": "2011-12",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#dcdce2",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-2011-12-13.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Detalles dorados",
+        "Bwin"
+      ],
+      "descripcion": "Camiseta icónica del Real Madrid 2011-12 (Liga de los 100 puntos) blanca con cuello polo y franjas doradas."
+    },
+    {
+      "id": "real-madrid-2011-12-14",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Visitante Negra/Dorada Manga Larga",
+      "temporada": "2011-12",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#ffffff",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-2011-12-14.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Manga larga",
+        "Detalles dorados"
+      ],
+      "descripcion": "Camiseta visitante negra con dorado del Real Madrid 2011-12 en versión manga larga."
+    },
+    {
+      "id": "real-madrid-2017-18-15",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Tercera Azul Turquesa Manga Larga",
+      "temporada": "2017-18",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#dcdce2",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-2017-18-15.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Manga larga",
+        "Tercera equipación"
+      ],
+      "descripcion": "Tercera equipación azul turquesa del Real Madrid 2017-18 en versión manga larga con pixelado geométrico."
+    },
+    {
+      "id": "real-madrid-1998-99-16",
+      "equipo": "REAL MADRID",
+      "subtitulo": "Visitante Azul Marino Teka",
+      "temporada": "1998-99",
+      "tipo": "Club",
+      "liga": "LaLiga · España",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#4f5259",
+        "#1d1e22"
+      ],
+      "coloresCuerpo": [
+        "#eef0f4",
+        "#555860"
+      ],
+      "colorTextoTitulo": "#ffffff",
+      "colorPastillaAnio": "#ffffff",
+      "colorTextoAnio": "#111111",
+      "coloresFranjasSvg": [
+        "#f4f4f4"
+      ],
+      "colorCuelloSvg": "#5b3a9c",
+      "escudo": "fotos/escudo-real-madrid.webp",
+      "imagenPrincipal": "fotos/real-madrid-1998-99-16.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-real-madrid.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Retro Teka",
+        "Visitante"
+      ],
+      "descripcion": "Camiseta retro visitante azul marino del Real Madrid 1998-99 con franjas horizontales y patrocinio Teka."
+    },
+    {
+      "id": "colombia-2001-01",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Local Campeón Copa América",
+      "temporada": "2001",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-2001-01.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Retro Reebok",
+        "Campeón 2001"
+      ],
+      "descripcion": "Camiseta histórica de la Selección Colombia 2001 marca Reebok, campeona invicta de la Copa América en casa."
+    },
+    {
+      "id": "colombia-2014-02",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Local Mundial Brasil 2014",
+      "temporada": "2014",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-2014-02.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Mundial 2014",
+        "Etiqueta Adidas"
+      ],
+      "descripcion": "Camiseta histórica de la Selección Colombia en el Mundial de Brasil 2014 con franja azul en el pecho."
+    },
+    {
+      "id": "colombia-1990-03",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Local Amarilla Mundial Italia 90",
+      "temporada": "1990",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-1990-03.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Retro Adidas",
+        "Italia 90"
+      ],
+      "descripcion": "Camiseta retro amarilla de la Selección Colombia en el Mundial de Italia 1990 con diseño tricolor en mangas."
+    },
+    {
+      "id": "colombia-2003-05-04",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Local Clásica Lotto",
+      "temporada": "2003-05",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-2003-05-04.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Retro Lotto",
+        "Cuello polo"
+      ],
+      "descripcion": "Camiseta retro de la Selección Colombia 2003-2005 marca Lotto con cuello polo y costados azules."
+    },
+    {
+      "id": "colombia-1998-05",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Visitante Azul Mundial Francia 98",
+      "temporada": "1998",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-1998-05.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Retro Reebok",
+        "Francia 98"
+      ],
+      "descripcion": "Camiseta retro visitante azul de la Selección Colombia en el Mundial de Francia 1998 marca Reebok."
+    },
+    {
+      "id": "colombia-1990-06",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Visitante Roja Mundial Italia 90",
+      "temporada": "1990",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-1990-06.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Retro Adidas",
+        "Italia 90"
+      ],
+      "descripcion": "La mítica camiseta roja de la Selección Colombia del Mundial de Italia 1990 con el diseño tricolor en hombros."
+    },
+    {
+      "id": "colombia-centenario-07",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Edición Especial 100 Años FCF",
+      "temporada": "Centenario",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-centenario-07.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Edición Centenario",
+        "Detalles dorados"
+      ],
+      "descripcion": "Camiseta conmemorativa del Centenario de la Selección Colombia en color blanco marfil con franja tricolor en el pecho."
+    },
+    {
+      "id": "colombia-2026-08",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Local Manga Larga Edición 2026",
+      "temporada": "2026",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-2026-08.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Manga larga",
+        "Etiqueta Adidas"
+      ],
+      "descripcion": "Camiseta amarilla manga larga de la Selección Colombia edición 2026 con grabado floral y detalles rojos."
+    },
+    {
+      "id": "colombia-2024-09",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Local Copa América 2024",
+      "temporada": "2024",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-2024-09.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Copa América",
+        "Etiqueta Adidas"
+      ],
+      "descripcion": "Camiseta titular de la Selección Colombia 2024 amarilla con detalles laterales en tono fuego."
+    },
+    {
+      "id": "colombia-2026-10",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Edición Blanca Tricolor 2026",
+      "temporada": "2026",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-2026-10.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Edición 2026",
+        "Detalles tricolor"
+      ],
+      "descripcion": "Camiseta blanca de la Selección Colombia edición 2026 con arcos amarillos, azules y rojos."
+    },
+    {
+      "id": "colombia-2024-11",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Alternativa Negra y Naranja 2024",
+      "temporada": "2024",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-2024-11.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Visitante",
+        "Etiqueta Adidas"
+      ],
+      "descripcion": "Camiseta alternativa negra de la Selección Colombia 2024 con detalles y franjas en naranja vibrante."
+    },
+    {
+      "id": "colombia-2026-12",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Alternativa Azul Rayas Verdes 2026",
+      "temporada": "2026",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-2026-12.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Logo Originals",
+        "Edición 2026"
+      ],
+      "descripcion": "Camiseta alternativa azul con líneas horizontales neón de la Selección Colombia edición 2026."
+    },
+    {
+      "id": "colombia-2026-13",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Entrenamiento / Polo Azul 2026",
+      "temporada": "2026",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-2026-13.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Cuello polo",
+        "Edición 2026"
+      ],
+      "descripcion": "Camiseta tipo polo azul oscuro de la Selección Colombia 2026 con mangas azules y detalles tricolor."
+    },
+    {
+      "id": "colombia-2026-14",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Edición Especial Negra Mariposas",
+      "temporada": "2026",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-2026-14.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Diseño mariposas",
+        "Edición 2026"
+      ],
+      "descripcion": "Camiseta especial negra de la Selección Colombia 2026 con estampado artístico de mariposas amarillas."
+    },
+    {
+      "id": "colombia-2026-15",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Edición Especial Roja Mariposas",
+      "temporada": "2026",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-2026-15.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Diseño mariposas",
+        "Edición 2026"
+      ],
+      "descripcion": "Camiseta especial roja de la Selección Colombia 2026 con cuello amarillo y grabado de mariposas."
+    },
+    {
+      "id": "colombia-2026-16",
+      "equipo": "COLOMBIA",
+      "subtitulo": "Polo Amarilla Clásica 2026",
+      "temporada": "2026",
+      "tipo": "Selección",
+      "liga": "CONMEBOL · Sudamérica",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#d8b218",
+        "#22346e"
+      ],
+      "coloresCuerpo": [
+        "#e2be28",
+        "#2d3b68"
+      ],
+      "colorTextoTitulo": "#ff2a2a",
+      "colorPastillaAnio": "#8c0032",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#f5c518"
+      ],
+      "colorCuelloSvg": "#1b3a8f",
+      "escudo": "fotos/escudo-colombia.webp",
+      "imagenPrincipal": "fotos/colombia-2026-16.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-colombia.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Cuello polo",
+        "Edición 2026"
+      ],
+      "descripcion": "Camiseta tipo polo amarilla de la Selección Colombia 2026 con detalles tricolor en los hombros."
+    },
+    {
+      "id": "manchester-united-2010-01",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Local V Negra AIG",
+      "temporada": "2010",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-2010-01.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "AIG",
+        "Etiqueta Nike"
+      ],
+      "descripcion": "Camiseta local del Manchester United 2009-10 roja con la icónica V negra en el pecho y patrocinio AIG."
+    },
+    {
+      "id": "manchester-united-2005-06-02",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Local Vodafone",
+      "temporada": "2005-06",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-2005-06-02.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Vodafone",
+        "Etiqueta Nike"
+      ],
+      "descripcion": "Camiseta local del Manchester United 2005-06 con cuello blanco asimétrico y patrocinio Vodafone."
+    },
+    {
+      "id": "manchester-united-1990-03",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Retro Local Adidas Sharp",
+      "temporada": "1990",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-1990-03.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Retro Adidas",
+        "Sharp"
+      ],
+      "descripcion": "Camiseta retro local del Manchester United 1990-92 marca Adidas con cuello blanco/rojo y patrocinio Sharp."
+    },
+    {
+      "id": "manchester-united-1988-04",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Retro Clásica Sharp 1988",
+      "temporada": "1988",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-1988-04.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Retro Adidas",
+        "Sharp"
+      ],
+      "descripcion": "Camiseta retro del Manchester United 1988-90 marca Adidas con tres rayas blancas en hombros y Sharp."
+    },
+    {
+      "id": "manchester-united-1998-05",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Local del Triplete Umbro Sharp",
+      "temporada": "1998",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-1998-05.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Umbro",
+        "Triplete 1999"
+      ],
+      "descripcion": "Camiseta histórica del Manchester United 1998-99 (campeón del Triplete) marca Umbro con cierre en cuello y Sharp."
+    },
+    {
+      "id": "manchester-united-1996-06",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Retro Escudo Central Cantona",
+      "temporada": "1996",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-1996-06.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Umbro",
+        "Época Cantona"
+      ],
+      "descripcion": "Camiseta retro del Manchester United 1996-98 con cuello blanco tipo polo y escudo centralizado."
+    },
+    {
+      "id": "manchester-united-2010-11-07",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Local AON Cuello Blanco",
+      "temporada": "2010-11",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-2010-11-07.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "AON",
+        "Etiqueta Nike"
+      ],
+      "descripcion": "Camiseta local del Manchester United 2010-11 con cuello retro blanco y patrocinio AON."
+    },
+    {
+      "id": "manchester-united-1994-08",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Retro Old Trafford Grabado",
+      "temporada": "1994",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-1994-08.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Umbro",
+        "Cuello negro"
+      ],
+      "descripcion": "Camiseta retro del Manchester United 1994-96 con el estadio Old Trafford grabado en la tela y cuello negro."
+    },
+    {
+      "id": "manchester-united-2013-14-09",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Local Cuello Polo Negro AON",
+      "temporada": "2013-14",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-2013-14-09.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "AON",
+        "Cuello polo"
+      ],
+      "descripcion": "Camiseta local del Manchester United 2013-14 roja con elegante cuello tipo polo negro abotonado."
+    },
+    {
+      "id": "manchester-united-1992-94-10",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Retro Cuello de Cordones",
+      "temporada": "1992-94",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-1992-94-10.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Cuello cordones",
+        "Umbro Sharp"
+      ],
+      "descripcion": "Mítica camiseta retro del Manchester United 1992-94 con cuello blanco de cordones y tramado geométrico."
+    },
+    {
+      "id": "manchester-united-2002-03-11",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Local Vodafone Época Beckham",
+      "temporada": "2002-03",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-2002-03-11.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Vodafone",
+        "Etiqueta Nike"
+      ],
+      "descripcion": "Camiseta local del Manchester United 2002-04 con detalles negros y patrocinio Vodafone."
+    },
+    {
+      "id": "manchester-united-2018-19-12",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Local Difuminado Negro Chevrolet",
+      "temporada": "2018-19",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-2018-19-12.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Chevrolet",
+        "Etiqueta Adidas"
+      ],
+      "descripcion": "Camiseta local del Manchester United 2018-19 roja con franjas horizontales negras en degradado inferior."
+    },
+    {
+      "id": "manchester-united-2006-07-13",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Local Escudo Clásico Manga Larga",
+      "temporada": "2006-07",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-2006-07-13.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Manga larga",
+        "AIG"
+      ],
+      "descripcion": "Camiseta manga larga del Manchester United 2006-07 con escudo en blasón blanco, filos dorados y patrocinio AIG."
+    },
+    {
+      "id": "manchester-united-2007-08-14",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Final Moscú 2008 Manga Larga",
+      "temporada": "2007-08",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-2007-08-14.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Manga larga",
+        "Final Moscú 2008"
+      ],
+      "descripcion": "Camiseta histórica manga larga de la Final de Champions en Moscú 2008 (Cristiano Ronaldo) con bordado central."
+    },
+    {
+      "id": "manchester-united-1998-15",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Visitante Negra Manga Larga Sharp",
+      "temporada": "1998",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-1998-15.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Manga larga",
+        "Umbro Sharp"
+      ],
+      "descripcion": "Camiseta retro visitante azul oscuro/negra en manga larga del Manchester United 1998 con cuello polo y Sharp."
+    },
+    {
+      "id": "manchester-united-1998-16",
+      "equipo": "MANCHESTER UNITED",
+      "subtitulo": "Tercera Azul Manga Larga Sharp",
+      "temporada": "1998",
+      "tipo": "Club",
+      "liga": "Premier League · Inglaterra",
+      "calidad": "1.1",
+      "estado": "disponible",
+      "precio": "",
+      "tallasDisponibles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tallasAgotadas": [],
+      "coloresDegradado": [
+        "#99282c",
+        "#3a0e11"
+      ],
+      "coloresCuerpo": [
+        "#a13337",
+        "#521417"
+      ],
+      "colorTextoTitulo": "#f6c90e",
+      "colorPastillaAnio": "#0a0a0d",
+      "colorTextoAnio": "#ffffff",
+      "coloresFranjasSvg": [
+        "#c8102e"
+      ],
+      "colorCuelloSvg": "#111111",
+      "escudo": "fotos/escudo-manchester-united.webp",
+      "imagenPrincipal": "fotos/manchester-united-1998-16.webp",
+      "imagenFlyer": "",
+      "imagenPoster": "fotos/poster-manchester-united.webp",
+      "imagenesDetalle": [],
+      "etiquetasDetalle": [
+        "Escudo bordado",
+        "Manga larga",
+        "Retro Adidas"
+      ],
+      "descripcion": "Camiseta retro azul en manga larga del Manchester United con tres franjas blancas en mangas y Sharp."
+    }
+  ]
+}
