@@ -22,5 +22,5 @@ Catálogo web oficial de **Gab’s Jerseys** (*Gab’s Sports*), tienda colombia
 
 ## 📱 Canales de contacto y pedidos
 
-- **WhatsApp:** [313 320 0169](https://wa.me/573133200169) / [322 742 4509](https://wa.me/573227424509)
+- **WhatsApp:** [322 742 4509](https://wa.me/573227424509)
 - **Instagram:** [@gabsjerseys](https://www.instagram.com/gabsjerseys/)
